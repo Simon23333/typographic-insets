@@ -59,8 +59,9 @@ main {
   padding: 1.5rem 0;
 }
 
-id>first::first-letter {
-  font-size: 5rem;
+::first-letter {
+  padding: 5rem;
+  float: left;
 }
 
 p {
